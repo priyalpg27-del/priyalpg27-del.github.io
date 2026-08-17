@@ -1,0 +1,1 @@
+.brand{display:flex;flex-direction:column;gap:3px!important}.brand .brand-name{color:var(--ink);font:700 21px Manrope,Arial,sans-serif;letter-spacing:-.05em}.brand .brand-role{color:#657000;font:500 13px 'DM Mono',monospace;letter-spacing:.035em;text-transform:uppercase}@media(max-width:700px){.brand .brand-name{font-size:18px}.brand .brand-role{font-size:10px}}
