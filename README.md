@@ -16,6 +16,4 @@ GitHub will provide the public site at `https://priya.github.io` within a few mi
 - Update the LinkedIn and Medium links in `index.html` if needed.
 - Metrics and role achievements are drawn from the supplied resume; confirm client disclosure and metric accuracy before publishing.
 
-## Optional custom domain
 
-The free GitHub Pages URL will not mention Codex. A custom name such as `priyag.dev`, `priyag.ai`, or another available domain can be connected later in **Settings → Pages → Custom domain** after purchasing it from a domain registrar.
